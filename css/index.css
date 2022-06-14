@@ -1,0 +1,82 @@
+
+body {
+    background-color: #4e5a56;
+    overflow: auto;
+  
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.list:nth-child(2){
+    background-color: #4e5a56;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-position: center; 
+}
+
+/* index */
+
+.one {
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 130px;
+}
+
+.profile {
+    border-radius: 30%;
+    display: inline-block;
+    padding: 0.5rem;
+    margin-top: 20px;
+    border: 1px solid9 gray;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgb(255, 255, 255, 0.5);
+}
+
+.profile img {
+    border-radius: 30%;
+}
+
+/*index 내용 */
+h3 {
+    font-family: 'Pretendard-Thin';
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+/* 상단바 */
+.menu li {
+    margin: 35px;
+    display: inline;
+}
+
+.menu li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+.menu {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-style: italic;
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}

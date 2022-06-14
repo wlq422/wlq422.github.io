@@ -1,0 +1,63 @@
+body {
+    background-color: #9d949e;
+    overflow: auto;
+
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 0px;
+}
+
+.me
+{   
+    margin-top: 150px;
+    border-radius: 20%;
+}
+
+/* about */
+
+.intext {
+    float: right;
+    margin-top: 100px;
+    margin-left: 150px;
+    padding-left: 50px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.intext-li {
+    float: right;
+    font-size: 20px;
+}
+
+/* 상단바 */
+.menu li {
+    margin: 35px;
+    display: inline;
+}
+
+.menu li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+.menu {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-style: italic;
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
