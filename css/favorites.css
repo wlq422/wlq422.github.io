@@ -29,6 +29,9 @@ h1 {
     font-style: italic; 
 }
 
+.lists:hover{
+    transform: scale(1.4);
+}
 
 .list_img {
     width: 300px;
