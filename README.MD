@@ -4,7 +4,7 @@
 
 # 나의 소개
 안녕하세요 재이 입니다
-<img src = "1.jpg" width = "300" height = "300"/> <br>
+<img src = "아이유.jpg" width = "300" height = "300"/> <br>
 
 # 나의 동아리 활동
 
